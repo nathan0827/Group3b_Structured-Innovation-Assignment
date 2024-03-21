@@ -1,0 +1,57 @@
+1.	background
+1940s: Genrich Altshuller and his colleagues developed TRIZ.
+Concepts: Innovation can be achieved by understanding and applying past inventions and innovative experiences rather than relying on random inspiration.
+
+
+
+
+2.	Principles
+TRIZ was established based on the analysis of thousands of invention patents. The principle is to identify and respond to systemic contradictions in the innovation process. 
+
+Contradiction Matrix: 
+A tool that helps innovators find suggestions for resolving principles based on the specific technical contradictions they face.
+
+40 principles of invention:
+Provide conceptual solutions to creatively resolve technical and physical contradictions.
+
+Ideal Final Result (IFR):
+TRIZ encourages idealized solutions that solve problems with minimal effort and resources, often by providing a problem-free system or environment.
+
+Resources & Trend Analysis:
+Solve problems using existing resources and anticipating future changes in technology and markets.
+
+
+
+
+3.	Application of TRIZ
+In pill production, how to effectively identify and separate defective pills has always been a cost and efficiency challenge. TRIZ offers innovative solutions to this challenge.
+
+Using the shape of pills, design a system that can automatically sort good and defective products. Good pills usually have a perfect spherical shape and can roll on a specific inclined plane or vibrating track; while defective pills will be automatically separated due to irregular shapes, which can effectively reduce manual inspections, lower costs, and increase speed and accuracy.
+
+
+
+
+4.	Cost-benefit Analysis
+Cost-benefit analysis provides decision-makers with a clear financial perspective and helps measure the long-term value and potential return of an investment. This module will provide a cost-benefit comparison of using traditional manual inspections versus automated solutions proposed using the TRIZ approach. 
+
+Manual inspection: Consideration needs to be given to workers’ hourly wages, training costs, loss costs due to errors, and possible production delays caused by manual inspections. Although the initial investment is lower, long-term costs can increase.
+
+TRIZ method: The upfront investment includes equipment purchase and installation, system commissioning and staff training, but operating costs decrease over time due to reduced errors and increased efficiency. Although the initial investment is higher, in the long run it can reduce waste, increase output, and reduce overall production costs.
+
+
+
+
+5.	Conclusion&Outlook
+Through the TRIZ approach, we find that not only can existing processes be optimized, but new solutions can be revealed that might have been overlooked in the past. Cost-benefit analysis shows that although the TRIZ solution requires an initial investment, the long-term benefits in terms of increased productivity and reduced operating costs are clear.
+
+The TRIZ method has broad application prospects beyond pill production. As technology develops, we expect TRIZ will continue to drive innovation across industries and solve more complex design and engineering problems. TRIZ not only addresses current challenges, but also predicts and shapes future technology trends, driving continuous improvement and value creation.
+
+In the future, TRIZ will not only be a tool for engineers or product developers, but a valuable asset for anyone seeking innovation and hoping to find a clear path in complex situations.
+
+
+
+
+6.	References
+1. Prof. Dr. Dr. h.c. Florian Rupp, FIMA. “02_motivation_creativity.pdf of block-course Systematic Innovation”.  Durham university.
+2. Altshuller, G. (1999). "The Innovation Algorithm: TRIZ, systematic innovation, and technical creativity". Worcester, MA: Technical Innovation Center, Inc.
+3.Terninko, J., Zusman, A., & Zlotin, B. (1998). "Systematic Innovation: An Introduction to TRIZ". St. Lucie Press.
